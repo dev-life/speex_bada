@@ -33,7 +33,7 @@
 									<listOptionValue builtIn="false" value="C:/bada/2.0.5/Include"/>
 									<listOptionValue builtIn="false" value="C:/Dev/bada/workspace/speex/inc"/>
 								</option>
-								<option id="osp.gnu.target.cpp.compiler.debug.lib.option.preprocessor.def.1757803323" superClass="osp.gnu.target.cpp.compiler.debug.lib.option.preprocessor.def" valueType="definedSymbols">
+								<option id="osp.gnu.target.cpp.compiler.debug.lib.option.preprocessor.def.1757803323" name="Defined symbols (-D)" superClass="osp.gnu.target.cpp.compiler.debug.lib.option.preprocessor.def" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="SHP"/>
 									<listOptionValue builtIn="false" value="_DEBUG"/>
 									<listOptionValue builtIn="false" value="HAVE_CONFIG_H"/>
@@ -45,7 +45,7 @@
 									<listOptionValue builtIn="false" value="C:/bada/2.0.5/Include"/>
 									<listOptionValue builtIn="false" value="C:/Dev/bada/workspace/speex/inc"/>
 								</option>
-								<option id="osp.gnu.target.c.compiler.debug.lib.option.preprocessor.def.939154580" superClass="osp.gnu.target.c.compiler.debug.lib.option.preprocessor.def" valueType="definedSymbols">
+								<option id="osp.gnu.target.c.compiler.debug.lib.option.preprocessor.def.939154580" name="Defined symbols (-D)" superClass="osp.gnu.target.c.compiler.debug.lib.option.preprocessor.def" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="SHP"/>
 									<listOptionValue builtIn="false" value="_DEBUG"/>
 									<listOptionValue builtIn="false" value="HAVE_CONFIG_H"/>
@@ -515,7 +515,7 @@
 									<listOptionValue builtIn="false" value="&quot;${SDKROOT}/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${PROJECT_ROOT}/inc&quot;"/>
 								</option>
-								<option id="osp.gnu.target.cpp.compiler.release.lib.option.preprocessor.def.1236135956" superClass="osp.gnu.target.cpp.compiler.release.lib.option.preprocessor.def" valueType="definedSymbols">
+								<option id="osp.gnu.target.cpp.compiler.release.lib.option.preprocessor.def.1236135956" name="Defined symbols (-D)" superClass="osp.gnu.target.cpp.compiler.release.lib.option.preprocessor.def" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="SHP"/>
 									<listOptionValue builtIn="false" value="HAVE_CONFIG_H"/>
 								</option>
@@ -526,7 +526,7 @@
 									<listOptionValue builtIn="false" value="&quot;${SDKROOT}/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${PROJECT_ROOT}/inc&quot;"/>
 								</option>
-								<option id="osp.gnu.target.c.compiler.release.lib.option.preprocessor.def.638243278" superClass="osp.gnu.target.c.compiler.release.lib.option.preprocessor.def" valueType="definedSymbols">
+								<option id="osp.gnu.target.c.compiler.release.lib.option.preprocessor.def.638243278" name="Defined symbols (-D)" superClass="osp.gnu.target.c.compiler.release.lib.option.preprocessor.def" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="SHP"/>
 									<listOptionValue builtIn="false" value="HAVE_CONFIG_H"/>
 								</option>
@@ -535,7 +535,7 @@
 							<tool id="cdt.managedbuild.tool.osp.gnu.arm.c.linker.base.1925664235" name="bada C Linker" superClass="cdt.managedbuild.tool.osp.gnu.arm.c.linker.base"/>
 							<tool id="cdt.managedbuild.tool.osp.gnu.arm.cpp.linker.base.1978648441" name="bada C++ Linker" superClass="cdt.managedbuild.tool.osp.gnu.arm.cpp.linker.base"/>
 							<tool id="cdt.managedbuild.tool.osp.gnu.target.assembler.lib.release.1110685462" name="bada Assembler" superClass="cdt.managedbuild.tool.osp.gnu.target.assembler.lib.release">
-								<option id="osp.gnu.both.asm.option.include.paths.1212849097" name="Include paths (-I)" superClass="osp.gnu.both.asm.option.include.paths" valueType="includePath"/>
+								<option id="osp.gnu.both.asm.option.include.paths.1212849097" name="Include paths (-I)" superClass="osp.gnu.both.asm.option.include.paths"/>
 								<inputType id="cdt.managedbuild.tool.osp.gnu.assembler.input.604172845" superClass="cdt.managedbuild.tool.osp.gnu.assembler.input"/>
 							</tool>
 						</toolChain>
