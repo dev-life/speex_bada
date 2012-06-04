@@ -1,2 +1,3 @@
 Speex (www.speex.org) bada project
 - Import the project from bada IDE
+- Build as a static library
